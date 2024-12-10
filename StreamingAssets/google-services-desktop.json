@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798733015601",
+    "project_id": "rage-quit-49947",
+    "storage_bucket": "rage-quit-49947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798733015601:android:f25ca3859df391b22b9310",
+        "android_client_info": {
+          "package_name": "com.zomobgames.RageGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798733015601-vsrfe37ti7n9c4m7sugjk744lisl4agf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgg2x5YUurj86vs6Osm4zd40p8guqEVRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798733015601-vsrfe37ti7n9c4m7sugjk744lisl4agf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
