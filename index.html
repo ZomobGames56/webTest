@@ -113,6 +113,7 @@
                 loadingBar.style.display = "none";
                 fullscreenButton.onclick = () => {
                   unityInstance.SetFullscreen(1);
+                  refreshStickyBannerAd();StickyBannerInstance=window?.GlanceGamingAdInterface?.showStickyBannerAd(StickyObj,bannerCallbacks);
                 };
               }).catch((message) => {
                 alert(message);
